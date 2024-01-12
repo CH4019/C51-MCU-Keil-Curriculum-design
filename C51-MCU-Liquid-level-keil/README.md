@@ -6,6 +6,8 @@ C51单片机湿度测量串口课设项目(Keil)
 
 - C51-MCU-Liquid-level-keil.c	项目源文件
 - C51-MCU-Liquid-level-keil.pdsprj	项目仿真文件
+- C51-MCU-Liquid-level-keil.PcbDoc(PCB文档)
+- C51-MCU-Liquid-level-keil.SchDoc(原理图文档)
 
 ## 软件版本
 
