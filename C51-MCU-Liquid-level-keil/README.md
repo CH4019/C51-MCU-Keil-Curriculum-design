@@ -13,6 +13,7 @@ C51单片机湿度测量串口课设项目(Keil)
 
 - Keil uVision5
 - Proteus 8 Professional(8.15)
+- Altium Designer 24
 
 ## 展示
 
