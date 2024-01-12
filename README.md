@@ -14,7 +14,7 @@ C51单片机交通灯课设项目(Keil)
 
 ## 展示
 
-![image](https://github.com/CH4019/C51-MCU-TrafficLight-Keil/blob/main/img/show.gif)
+![image](https://github.com/CH4019/C51-MCU-TrafficLight-Keil/blob/main/img/C51-MCU-TrafficLight-Keil.gif)
 
 ## License 
   
