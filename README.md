@@ -14,6 +14,6 @@ C51单片机课设项目个人存档(Keil)
 
 ## License 
   
- [The MIT License (MIT)](https://github.com/CH4019/C51-MCU-TrafficLight-Keil/blob/main/LICENSE)
+ [The MIT License (MIT)](https://github.com/CH4019/C51-MCU-Keil-Curriculum-design/blob/main/LICENSE)
 
 ## 最后请给个小⭐⭐
